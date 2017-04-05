@@ -1,4 +1,4 @@
-
+package aula3logica;
 import java.util.Scanner;
 
 public class ExerCalcula {
